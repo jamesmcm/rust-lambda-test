@@ -1,0 +1,5 @@
+location,metric,value,date
+UK,metric1,0.65,2020-02-01
+UK,metric2,,2020-02-01
+UK,metric3,,2020-02-01
+FR,metric1,0.0,2020-02-01
