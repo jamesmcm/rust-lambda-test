@@ -2,6 +2,8 @@
 
 This is a toy example of a Rust application for deployment on AWS Lambda.
 
+This repo accompanies [this blog post](http://jamesmcm.github.io/blog/2020/04/19/data-engineering-with-rust-and-aws-lambda/#en).
+
 It loads an Excel file from S3 to a Redshift cluster, on-demand, triggered when the file is uploaded.
 
 You can run `cargo test` to run just the CSV generation from a test Excel file locally.
